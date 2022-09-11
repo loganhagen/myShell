@@ -11,7 +11,7 @@ myShell is a custom UNIX shell program, modeled after a BASH shell. It was creat
 - Builtin commands: `export`, `history`, and `cd`.
 
 <br>Compilation: Enter `make` to build the myShell executable in the current directory.
-<br>Execution: Enter `myShell` after compiling.
+<br>Execution: Enter `./myShell` after compiling.
 
 ### Notes
 - The shell uses a space as a delimiter. Not using a space between tokens will produce unpredictable behaviour.
